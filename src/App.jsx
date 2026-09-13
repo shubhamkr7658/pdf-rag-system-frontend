@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://pdf-rag-system-backend-adw1.onrender.com/";
 
 function App() {
 
